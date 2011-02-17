@@ -1,0 +1,34 @@
+Project Plan Outline
+
+Group Members:
+	Lorenz Maxell Imperial
+	Laurice Sardes
+	Jimmer Bryan Tabucol
+	Archie Gratil
+
+Overview of the Project:
+	--Laurice Sardes
+
+Objectives:
+	--Lorenz Maxell Imperial
+	General:
+		
+
+	Specific:
+
+Methodology:
+	Archie Gratil
+Flowchart:
+	All Members	
+Database Structure:
+	--Jimmer Bryan Tabucol
+
+Diagrams:
+	===All Members====
+	Use Case Diagram 
+	Class Diagram
+	Sequence Diagram
+
+
+
+
